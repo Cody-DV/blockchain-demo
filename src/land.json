@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Land Title or Address",
+    "picture": "src/images/land1.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Land Title or Address",
+    "picture": "src/images/land3.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Land Title or Address",
+    "picture": "src/images/land4.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Land Title or Address",
+    "picture": "src/images/land1.png",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Land Title or Address",
+    "picture": "src/images/land1.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 7,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 8,
+    "name": "Land Title or Address",
+    "picture": "src/images/land3.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 9,
+    "name": "Land Title or Address",
+    "picture": "src/images/land4.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 10,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 11,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 12,
+    "name": "Land Title or Address",
+    "picture": "src/images/land1.png",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 13,
+    "name": "Land Title or Address",
+    "picture": "src/images/land1.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 14,
+    "name": "Land Title or Address",
+    "picture": "src/images/land2.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 15,
+    "name": "Land Title or Address",
+    "picture": "src/images/land3.png",
+    "price": 3,
+    "type": "Crop Type",
+    "location": "Freeburn, Idaho"
+  }
+]
