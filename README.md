@@ -4,6 +4,12 @@ Full stack blockchain dapp on the Ethereum platform.
 
 ------
 
+
+[[https://github.com/Cody-DV/blockchain-demo/blob/master/blockchain-demo.png|alt=blockchain-demo]]
+
+
+------
+
 Requirements:
 
 - Metamask Chrome browser extension
@@ -19,3 +25,4 @@ Code is derived from the Truffle Petshop tutorial with modifications to the
 front end and configuration to allow deployment to live and test networks.
 
 -------
+
