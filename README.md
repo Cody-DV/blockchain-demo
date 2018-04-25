@@ -1,7 +1,7 @@
 # blockchain-demo
 
-Full stack blockchain dapp on the Ethereum platform. 
-App is a proof of concept that facilitates land ownership title transfer
+Full stack blockchain dapp on the Ethereum platform. <br/>
+The dapp is a proof of concept that facilitates land ownership and title transfer
 using the Ethereum blockchain and smart contracts. 
 
 ------
